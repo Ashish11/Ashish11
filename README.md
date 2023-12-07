@@ -11,4 +11,4 @@ I am a certified Magento 1 and Magento 2 developer having more than 8 years of e
 - 💬 Ask me about Magento 2 Extension Developmet
 - 📫 How to reach me: [Twitter](https://twitter.com/ranade_ashish11), [Youtube](https://www.youtube.com/channel/UCwsG4LM-P1vcmP3Ovbm-Kxg), [Instagram](https://www.instagram.com/ranade.ashish11/), [Asolutions](https://asolutions.co.in/contact/), [Email](admin@asolutions.co.in)
 - 😄 Pronouns: he/his
-- ⚡ Fun fact: ..Love to read more than 4hours a day
+- ⚡ Fun fact: ..Love to read books
