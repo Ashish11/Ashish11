@@ -2,7 +2,7 @@
 
 I am an experienced Software Engineer with a demonstrated history of working in the computer software industry. Skilled in PHP, jQuery, Ruby on Rails, AJAX, and Cascading Style Sheets (CSS). Strong engineering professional.  
 
-I am a certified Magento 1 and Magento 2 developer having more than 8 years of experience in the E-commerce domain
+I am a certified Magento 1 and Magento 2 developer having more than 12 years of experience in the E-commerce domain
 
 - 🔭 I’m currently working on Magento 2 Extension Development
 - 🌱 I’m currently learning AWS and PWA development
